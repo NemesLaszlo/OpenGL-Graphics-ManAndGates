@@ -1,0 +1,195 @@
+﻿  MyApp.cpp
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(37): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(258): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(259): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(260): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(307): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(308): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(309): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(356): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(357): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(358): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(405): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(406): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(407): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(550): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(566): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(580): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(598): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(613): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(627): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(644): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(645): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(660): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(661): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(674): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(687): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(704): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(706): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(724): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(726): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(740): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(742): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(755): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(757): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(773): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(775): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(777): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(778): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(793): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(795): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(797): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(798): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(813): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(815): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(817): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(818): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(833): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(835): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(837): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\wowla\desktop\03_curves\03_curves\myapp.cpp(838): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  03_Curves.vcxproj -> C:\Users\wowla\Desktop\03_Curves\x64\Debug\03_Curves.exe
